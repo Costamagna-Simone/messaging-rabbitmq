@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/messaging-rabbitmq.iml" filepath="$PROJECT_DIR$/messaging-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-rabbitmq.main.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-rabbitmq.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-rabbitmq.test.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-rabbitmq.test.iml" />
     </modules>
   </component>
 </project>

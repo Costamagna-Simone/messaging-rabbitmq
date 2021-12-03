@@ -9,10 +9,8 @@
         <module name="messaging-rabbitmq" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="messaging-rabbitmq" target="1.8" />
-      <module name="messaging-rabbitmq.main" target="1.8" />
-      <module name="messaging-rabbitmq.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
